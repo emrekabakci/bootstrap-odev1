@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(230, 230, 230);
+}
+
+.container{
+    text-align: center;
+}
+
+.items{
+    display: inline-block;
+    text-align: center;
+}
+
+.list{
+    padding-left: 900px;
+}
